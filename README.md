@@ -1,4 +1,6 @@
-# 🧠 Employee Attrition Prediction
+# 💼 Employee Attrition Predictor  
+> Predict employee turnover using Machine Learning and HR analytics.
+
 
 A Machine Learning web app built with **Python, Streamlit, and scikit-learn** that predicts whether an employee is likely to leave or stay based on key HR factors.  
 This project uses a Random Forest model trained on IBM’s HR Analytics dataset, customized for the Indian market.
