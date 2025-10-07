@@ -1,0 +1,15 @@
+Employee-Attrition-Predictor/
+├─ data/
+│   └─ WA_Fn-UseC_-HR-Employee-Attrition.csv  # Downloaded dataset
+├─ models/
+│   ├─ attrition_model.pkl
+│   └─ columns.json
+├─ notebooks/
+│   └─ Employee_Attrition_EDA_Model.ipynb
+├─ utils/
+│   ├─ preprocess.py
+│   ├─ retention_advice.py
+│   └─ shap_utils.py
+├─ app.py
+├─ requirements.txt
+└─ README.md
