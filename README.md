@@ -1,25 +1,35 @@
-# 💼 Employee Attrition Predictor  
-> Predict employee turnover using Machine Learning and HR analytics.
+# 🧠 Employee Attrition Predictor  
+### Predict Employee Turnover Using Machine Learning  
 
-
-A Machine Learning web app built with **Python, Streamlit, and scikit-learn** that predicts whether an employee is likely to leave or stay based on key HR factors.  
-This project uses a Random Forest model trained on IBM’s HR Analytics dataset, customized for the Indian market.
-
----
-
-## 🚀 Features
-- Predicts employee attrition probability with detailed insights  
-- Interactive **Streamlit dashboard**  
-- Realistic Indian salary scaling  
-- Displays **feature importance** using Random Forest  
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg)
+![scikit-learn](https://img.shields.io/badge/ML-sklearn-F7931E.svg)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 ---
 
-## 🧩 Tech Stack
-- **Python**
-- **Pandas, NumPy, Scikit-learn**
-- **Matplotlib, Seaborn**
-- **Streamlit**
+### 🚀 Overview
+The **Employee Attrition Predictor** is a machine learning web app built with **Streamlit** that predicts the likelihood of employee attrition based on key HR features like job role, salary, satisfaction, overtime, and more.  
+It helps organizations **analyze workforce trends** and take **proactive retention measures**.
+
+---
+
+### 🧩 Key Features
+- 🔍 Predicts employee attrition probability in real-time  
+- 📊 Visualizes employee demographics and salary insights  
+- 🧠 Machine learning backend using Random Forest Classifier  
+- 🧹 Modularized code with separate preprocessing and model files  
+- 🇮🇳 Tuned dataset to reflect Indian salary structure for realism  
+
+---
+
+### 🧮 Tech Stack
+- **Frontend:** Streamlit  
+- **Backend:** Python (Scikit-learn, Pandas, NumPy)  
+- **Visualization:** Matplotlib, Seaborn  
+- **Deployment-ready:** Works locally or via cloud (Streamlit Cloud / Render)  
 
 ---
 
